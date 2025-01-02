@@ -1,12 +1,19 @@
 # Fspawn
 Логика телепортации на спавн
-commands:
+
+
+#commands:
 /spawn (рандомно телепортирует на один из спавнов/можно оставить только один спавн.)
+
 /setspawn 1/2/3 (установить спавн)
+
 /fspawn reload
+
 /fspawn help
 
-parrents:
+
+
+#parrents:
 
 **fspawn.all:** Разрешить доступ ко всем командам fspawn
 
